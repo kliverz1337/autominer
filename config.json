@@ -12,7 +12,7 @@
     },
 	
     "autosave": false,
-    "background": true,
+    "background": false,
     "cpu": {
         "enabled": true,
         "huge-pages": true,
